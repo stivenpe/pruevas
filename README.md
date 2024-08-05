@@ -17,13 +17,12 @@ para el uso de esta debemos ber un pequeño guia de uso
 la funciunalidad de esta se asemeja en dar una enseyansa al probedor 
 
 ## codigo
-index.css 
-index.html
+datos.py
+
 ## [nota]
 
 ## tecnologia usada
-[html]
-[css]
+[python]
 
 
 
